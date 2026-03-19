@@ -7,7 +7,7 @@ Comprehensive analysis plots comparing:
   Static LBABC  (fixed CV = 0.4)
   MTLB Enhanced (dynamic adaptive threshold)
 
-Data: 5 simulation runs each (output .txt files)
+Data: 5 simulation runs each with average of 500 cycles(output .txt files)
 Graphs: 9 publication-quality figures
 """
 
